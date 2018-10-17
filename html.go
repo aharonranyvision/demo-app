@@ -43,7 +43,7 @@ const (
   <tbody>
 	<tr>
 	  <td>Name</td>
-	  <td>{{.Name}}</td>
+	  <td>{{.Name}} NEW TEXT TO SHOW UP</td>
 	</tr>
 	<tr>
 	  <td>Version</td>
