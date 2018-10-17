@@ -1,5 +1,5 @@
-def project = 'PROJECT_ID'
-def  appName = 'gceme'
+def project = 'demo'
+def  appName = 'demo-app'
 def  feSvcName = "${appName}-frontend"
 def  imageTag = "gcr.io/${project}/${appName}:${env.BRANCH_NAME}.${env.BUILD_NUMBER}"
 
