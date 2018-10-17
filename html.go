@@ -49,27 +49,6 @@ const (
 	  <td>Version</td>
 	  <td>{{.Version}}</td>
 	</tr>
-	<tr>
-	  <td>ID</td>
-	  <td>{{.Id}}</td>
-	</tr>
-	<tr>
-	  <td>Hostname</td>
-	  <td>{{.Hostname}}</td>
-	</tr>
-	<tr>
-	  <td>Zone</td>
-	  <td>{{.Zone}}</td>
-	</tr>
-	<tr>
-	  <td>Project</td>
-	  <td>{{.Project}}</td>
-	</tr>
-	<tr>
-	  <td>Internal IP</td>
-	  <td>{{.InternalIP}}</td>
-	</tr>
-	<tr>
 	  <td>External IP</td>
 	  <td>{{.ExternalIP}}</td>
 	</tr>
